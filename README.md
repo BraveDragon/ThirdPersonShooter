@@ -16,6 +16,8 @@ Unreal Engineで作成したシューティングゲームです。
 
 # <ゲームのプレイ画面>
 
+![demo](https://github.com/BraveDragon/ThirdPersonShooter/blob/master/DemoPlay.gif)
+
 # <ゲームのプレイ方法>
 
 ## 操作方法
